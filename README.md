@@ -9,9 +9,9 @@
 
 ## 1. Linux uppsetning
 
-![Myndin](http://i41.tinypic.com/25irbdl.jpg "Skjamynd")
+![ubuntustart](https://f.cloud.github.com/assets/5700377/1351208/cf7b7f06-371d-11e3-9fae-1c87441a311f.png "Skjamynd")
 
-![alt text][\Desktop\ubuntustart.png\ "Myndkskjar"]
+
 
  Það gekk ágætlega, reyndi fyrst að setja það inn á usb og ræsa þaðan en það gekk ekki svo ég sótti virtualbox sem tók óratíma að 
  ná í, en þegar það var komið sótti ég ubuntu fyrir það og það gekk allt vel.
