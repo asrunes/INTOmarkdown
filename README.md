@@ -1,4 +1,3 @@
-
 #Open Source
 
 Nemandi
@@ -29,7 +28,7 @@ Var ekkert mál, notaði bara skipanirnar og það kom strax.
 
 Er ein í hóp, en það gekk strax að forka verkefnið og var ekki í vandræðum með að finna NIM skrána og breyta henni, 
 
-Hér er svo [tengill](https://github.com/asrunes/INTOPrufa/ "Gaffall") inn á mitt fork og [hérna](https://github.com/asrunes/INTOPrufa/blob/master/NIM.cpp "breyting") má sjá breytinguna sem ég gerði í línu 147.
+Hér er svo [tengill](https://github.com/asrunes/INTOPrufa/ "Gaffall") inn á mitt fork og [hérna](https://github.com/asrunes/INTOPrufa/blob/master/NIM.cpp "breyting") í línu 147 má sjá breytinguna sem ég gerði.
 
 
 ## 4. Uppsettur hugbúnaður
