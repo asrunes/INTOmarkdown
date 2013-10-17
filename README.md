@@ -1,4 +1,4 @@
-<h1>A Inngangur a tölvunarfræði</h1>
+
 
 #Open Source
 
@@ -9,7 +9,7 @@
 
 ## 1. Linux uppsetning
 
-![ubuntustart](https://f.cloud.github.com/assets/5700377/1351208/cf7b7f06-371d-11e3-9fae-1c87441a311f.png "Skjamynd")
+![ubuntustart](https://f.cloud.github.com/assets/5700377/1351292/6d0ce74e-3720-11e3-99ea-a7d2d4dddcf8.png "Skjamynd")
 
 
 
@@ -20,9 +20,9 @@
 ## 2. Uppsetning á vim && git
 Var ekkert mál, notaði bara skipanirnar og það kom strax.
 
-Lýsið hvernig gekk að setja upp þessi tól.
 
-## 3. Unnið með Git (1. hluti
+
+## 3. Unnið með Git (1. hluti)
 
 
 Er ein í hóp, en það gekk strax að forka verkefnið og var ekki í vandræðum með að finna NIM skrána og breyta henni, 
