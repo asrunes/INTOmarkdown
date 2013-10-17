@@ -13,7 +13,7 @@ Nemandi
 
 
 
- Það gekk ágætlega, reyndi fyrst að setja það inn á usb og ræsa þaðan en það gekk ekki svo ég sótti virtualbox sem tók óratíma að  ná í, en þegar það var komið sótti ég ubuntu fyrir það og það gekk allt vel. Og eins og sjá má á myndinni hérna fyrir ofan þá virkaði þetta fínt hjá mér.
+Það gekk ágætlega, reyndi fyrst að setja það inn á usb og ræsa þaðan en það gekk ekki svo ég sótti virtualbox sem tók óratíma að  ná í, en þegar það var komið sótti ég ubuntu fyrir það og það gekk allt vel. Og eins og sjá má á myndinni hérna fyrir ofan þá virkaði þetta fínt hjá mér.
  
  
 ## 2. Uppsetning á vim && git
@@ -46,6 +46,4 @@ Hér er svo [tengill](https://github.com/asrunes/INTOPrufa/ "Gaffall") inn á mi
 
 
 
-## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
